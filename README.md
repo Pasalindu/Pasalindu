@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Pasalindu Palliyaguru</h1>
 <h3 align="center">A passionate technologist & developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pasalindu&label=Profile%20views&color=0e75b6&style=flat" alt="pasalindu" /> </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=hello+I'm+Pasalindu"/>
-
 ---
 - 🌱 I’m currently learning **MicroPython**
 
