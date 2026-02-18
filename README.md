@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Pasalindu Palliyaguru</h1>
-<h3 align="center">A passionate technologist & developer from Sri Lanka</h3>
+<h3 align="center">I am a passionate Electrical Design and Automation Technologist from Sri Lanka.</h3>
 
 ---
 - 🌱 I’m currently learning **MicroPython**
